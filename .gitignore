@@ -1,0 +1,56 @@
+# Dependencies
+node_modules/
+package-lock.json
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# Build outputs
+dist/
+build/
+*.o
+*.so
+*.pyc
+__pycache__/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+logs/
+*.log
+npm-debug.log*
+
+# Test coverage
+coverage/
+.nyc_output/
+
+# Onboard data
+.onboard/
+*.onboard.json
+
+# Temporary files
+tmp/
+temp/
+*.tmp
+
+# Compiled files
+*.tsbuildinfo
+*.dist.js
+*.min.js
+
+# Secrets
+*.pem
+*.key
+credentials.json
+secrets.json
