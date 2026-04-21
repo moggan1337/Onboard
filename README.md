@@ -1,5 +1,7 @@
 # Onboard - Developer Onboarding Bot
 
+[![CI](https://github.com/moggan1337/Onboard/actions/workflows/ci.yml/badge.svg)](https://github.com/moggan1337/Onboard/actions/workflows/ci.yml)
+
 <p align="center">
   <img src="https://img.shields.io/badge/Version-1.0.0-blue.svg" alt="Version">
   <img src="https://img.shields.io/badge/License-MIT-green.svg" alt="License">
@@ -7,6 +9,24 @@
 </p>
 
 ---
+
+## 🎬 Demo
+![Onboard Demo](demo.gif)
+
+*Developer onboarding with AI assistance*
+
+## Screenshots
+| Component | Preview |
+|-----------|---------|
+| Onboarding Flow | ![flow](screenshots/onboarding-flow.png) |
+| Q&A Interface | ![qa](screenshots/qa-interface.png) |
+| Progress Tracker | ![progress](screenshots/progress.png) |
+
+## Visual Description
+Onboarding flow shows guided setup steps with completion status. Q&A interface answers developer questions with context. Progress tracker displays skill acquisition over time.
+
+---
+
 
 ## 📖 Table of Contents
 
